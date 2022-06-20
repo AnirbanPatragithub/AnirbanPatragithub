@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirbanpatragithub" alt="anirbanpatragithub" /></a> </p>
 
-- 🔭 I’m currently working on **Machine-Learning(Update Pending)**
+- 🔭 I’m currently preparing for **Data Science Interviews**
 
-- 🌱 I’m currently learning **Machine-Learning,Natural Language Processing,Deep-Learning,Neural-Networks**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Loading...**
+- 👯 I’m looking to collaborate on **Computer Vision**
 
-- 👨‍💻 All of my projects are available at [(](()
+- 👨‍💻 All of my projects are available at https://github.com/AnirbanPatragithub?tab=repositories
 
 - 💬 Ask me about **Python,Django,Flask**
 
