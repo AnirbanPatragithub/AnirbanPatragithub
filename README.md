@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,Django,Flask**
 
-- 📫 How to reach me **anirbanpatra79+github@gmail.com**
+- 📫 How to reach me **Mail(anirbanpatra79+github@gmail.com)**
 
 - ⚡ Fun fact **I was Waiting For You.**
 
