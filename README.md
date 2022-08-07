@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision**
 
-- 👨‍💻 All of my projects are available at https://github.com/AnirbanPatragithub?tab=repositories
+- 👨‍💻 All of my projects are available [here](https://github.com/AnirbanPatragithub?tab=repositories)
 
 - 💬 Ask me about **Python,Django,Flask**
 
-- 📫 How to reach me **Mail(anirbanpatra79+github@gmail.com)**
+- 📫 How to reach me **[Mail](anirbanpatra79+github@gmail.com)**
 
 - ⚡ Fun fact **I was Waiting For You.**
 
