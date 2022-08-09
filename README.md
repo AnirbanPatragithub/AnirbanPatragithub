@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Science Interview,Portfolio Website<br>👯 I’m looking to collaborate on Kaggle Competition<br>🤝 I’m looking for help with  Selenium Captcha<br>🌱 I’m currently learning   Deep Learning<br>💬 Ask me about anything<br>⚡ Fun fact : Copy-and-Paste was programmed by programmers for programmers actually.
-
+![](https://github.com/AnirbanPatragithub/AnirbanPatragithub/blob/main/giphy.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirban-patra-76b70521a/) 
