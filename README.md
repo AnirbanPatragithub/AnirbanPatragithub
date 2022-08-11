@@ -14,3 +14,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![snake gif](https://github.com/AnirbanPatragithub/AnirbanPatragithub/blob/output/github-contribution-grid-snake.gif)
+
+
